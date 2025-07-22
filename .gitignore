@@ -1,9 +1,0 @@
-echo ".idea/
-target/
-*.iml
-*.class
-*.jar
-*.war
-*.log
-*.tmp
-.DS_Store"
